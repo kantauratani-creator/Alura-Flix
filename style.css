@@ -5,7 +5,11 @@ font-family: "Noto Sans JP", sans-serif;
 }
 header{
      font-size: 50px;
-}
+border:dashed 10px pink;
+    }
 h1{
     font-size: 40px;
+}
+p{
+    font-size: 20px;
 }
