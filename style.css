@@ -10,10 +10,18 @@ border:dashed 10px pink;
 text-align: center;
 /*margin: 30px;*/
 padding: 30px;
+color:rgb(247, 255, 240)
     }
 h1{
     font-size: 40px;
 }
 p{
     font-size: 20px;
+}
+section{
+background-color: rgb(219, 28, 28);
+padding-bottom:80px ;
+display: flex;
+justify-content: center;
+
 }
