@@ -21,7 +21,11 @@ p{
 section{
 background-color: rgb(219, 28, 28);
 padding-bottom:80px ;
+padding-top: 80px;
 display: flex;
 justify-content: center;
 
+}
+.chamada-texto{
+    margin-right: 10%;
 }
